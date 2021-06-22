@@ -1,3 +1,3 @@
 # apache_spark_mongo
 
-Basic conection into mongo and apache spark
+Basic connection into mongo and apache spark
